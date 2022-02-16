@@ -1,5 +1,7 @@
 👋Hi, Anand this side.
-
+💬Development enhtusiast.
+🌱I’m currently learning back-end development.
+👯 I’m looking to collaborate on real world projects.
 
 
 <!--
